@@ -220,9 +220,7 @@ img{
         fill: var(--first-color);
 
         &-img{
-            width: 100%;
-            height: auto;
-            object-fit: cover;
+            width: 360px;
         }
     }
 }
